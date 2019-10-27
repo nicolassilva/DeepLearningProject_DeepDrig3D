@@ -1,0 +1,1 @@
+#Download voxels data on : www.dsimb.inserm.fr/~gelly/data/DEEPDRUG3D/deepdrug3d_voxel_data.tar.gz
