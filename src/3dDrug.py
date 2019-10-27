@@ -58,4 +58,4 @@ earlyStop = callbacks.EarlyStopping(monitor="val_loss", patience=10, mode="min")
 best_model_file = ('best_model.h5')
 best_model = callbacks.ModelCheckpoint(best_model_file, monitor='val_loss', save_best_only='TRUE')
 
-my_model = model.fit(oH_x_train, oH_y_train, batch_size=16, epochs=30, validation_split = 0.3, callbacks=[earlyStop,best_model])
+my_model = model.fit(oH_x_train, oH_y_train, batch_size=16, epochs=300, validation_split = 0.3, callbacks=[earlyStop,best_model])
