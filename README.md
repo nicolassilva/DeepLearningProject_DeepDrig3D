@@ -26,9 +26,9 @@ Le répertoire contient :<br/>
 
 Il y a deux progammes à exécuter :<br/>
 	- le programme *3dDrug.py* qui ne prend pas d'arguments, qui permet tout simplement de faire tourner la création du réseau.<br/>
-	- le programme *evaluate3dDrug.py* qui ne prend pas d'arguments, qui permet de tester le réseau implémenter sur un jeu de données.<br/>
+	- le programme *evaluate3dDrug.py* qui prend un argument (le model à évaluer), qui permet de tester le réseau implémenter sur un jeu de données.<br/>
 	
-''' Ex: python3 3dDrug.py '''
+''' Ex: python3 evaluate3dDrug.py my_model.h5 '''
 
 #### Résultats
 *************************************
