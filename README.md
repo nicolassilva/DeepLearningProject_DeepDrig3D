@@ -33,7 +33,7 @@ Il y a deux progammes à exécuter :<br/>
 #### Résultats
 *************************************
 
-Les modèles et les graphiques des courbes ROC sont dans l dossier *results*.<br/>
+Les modèles et les graphiques des courbes ROC sont dans le dossier *results*.<br/>
 La partie des résultats est décrite dans le rapport dans le dossier *doc*.
 
 #### Modules python importés
