@@ -26,7 +26,7 @@ Le répertoire contient :<br/>
 
 Il y a deux progammes à exécuter :<br/>
 	- le programme *3dDrug.py* qui ne prend pas d'arguments, qui permet tout simplement de faire tourner la création du réseau.<br/>
-	- le programme *evaluate3dDrug.py* qui prend deux arguments: le premier est le model à évaluer, le second est le nom du fichier de sortie du graphe des courbes ROC. Ce programme qui permet de tester le réseau implémenté sur un jeu de données.<br/>
+	- le programme *evaluate3dDrug.py* qui prend deux arguments: le premier est le model à évaluer (argument obligatoire), le second est le nom du fichier de sortie du graphe des courbes ROC (argument optionnel). Ce programme permet de tester le réseau implémenté sur un jeu de données.<br/>
 	
 ''' Ex: python3 evaluate3dDrug.py my_model.h5 ROC_model.svg'''
 
