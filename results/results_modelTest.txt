@@ -1,0 +1,7 @@
+#Test réalisé sur un échantillon de 300 poches
+#pour les Hèmes, les nucléotides et les controles et 69 poches
+#pour les stéroïdes
+Model	Loss	Accuracy
+model_1conv3D_16	11.13	0.31
+model_2conv3D_4_16	0.53	0.80
+model_2conv3D_16_16	0.32	0.90
