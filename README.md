@@ -39,4 +39,4 @@ La partie des résultats est décrite dans le rapport dans le dossier *doc*.
 #### Modules python importés
 *****************************
 
-Numpy, Random, Keras (Input, Model, callbacks), Keras.backend (set_image_data_format), Keras.layers (Activation, Conv3D, Dense, Dropout, Flatten, MaxPooling3D)
+Sys, Argparse, Itertools (cycle), Numpy, Scipy (interp), Random, Keras (Input, Model, callbacks, load_model), Keras.backend (set_image_data_format), Keras.layers (Activation, Conv3D, Dense, Dropout, Flatten, MaxPooling3D), Matplotlib.pyplot, sklearn.metrics (roc_curve, auc)
